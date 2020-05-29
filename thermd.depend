@@ -1,6 +1,5 @@
 # depslib dependency file v1.0
-1522326384 source:d:\projects\Ñ++\thermd\main.cpp
-	"Graphics.h"
+1522880004 source:d:\projects\Ñ++\thermd\main.cpp
 	<string>
 	"_GUI.h"
 	<sstream>
@@ -26,4 +25,31 @@
 
 1521931858 d:\projects\Ñ++\thermd\font.h
 	"Graphics.h"
+
+1522959656 source:d:\files\c++\_course\thermd\main.cpp
+	<string>
+	"_GUI.h"
+	<sstream>
+
+1521931996 d:\files\c++\_course\thermd\_gui.h
+	"Font.h"
+	<string>
+	<stdarg.h>
+	<string.h>
+
+1521931858 d:\files\c++\_course\thermd\font.h
+	"Graphics.h"
+
+1520292872 d:\files\c++\_course\thermd\graphics.h
+	"Bitmap.h"
+	<stdlib.h>
+
+1520292986 d:\files\c++\_course\thermd\bitmap.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<windows.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
 
